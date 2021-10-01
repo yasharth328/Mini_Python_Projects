@@ -14,7 +14,7 @@
 2. Unzip this repo & open the project
 3. Install **selenium** library  
         `pip install selenium`  
-4. Open the [links.txt]() file & put the links you want to open in seconds
+4. Open the [links.txt](https://github.com/nitinkumar30/Mini_Python_Projects/blob/main/Programming_in_Python/open-multiple-links-with-python/links.txt) file & put the links you want to open in seconds
 5. Finally, run the code after saving all the files
 
 # Author
