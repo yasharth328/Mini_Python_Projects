@@ -19,3 +19,6 @@ Place: Delhi, India
 Name: [Nitin Kumar](https://github.com/nitinkumar30)
 Place: Jamshedpur, India
 
+Name: [Prajjwal Pathak](https://github.com/pyguru123)
+Place: Varanasi, India
+
