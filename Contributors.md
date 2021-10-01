@@ -6,3 +6,6 @@ Place: Nepal
 
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
+
+Name: [Shyam Sunder S](https://github.com/ShyamSunder149)
+Place: Trichy, India
