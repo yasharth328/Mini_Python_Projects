@@ -6,3 +6,6 @@ Place: Nepal
 
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
+
+Name: @sans2001 (https://github.com/sans2001)
+Place: Delhi, India
