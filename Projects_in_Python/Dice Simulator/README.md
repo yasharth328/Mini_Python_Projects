@@ -9,4 +9,4 @@ Modules used in this program:-
 
 **Here's how the program looks like:-**
 
-[![Output Image](./Output/Output.PNG)]
+![Output Image](https://github.com/kahtras665/Mini_Python_Projects/Projects_in_Python/Dice Simulator/Output/Output.JPG?raw=true)
