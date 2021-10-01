@@ -6,3 +6,6 @@ Place: Nepal
 
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
+
+Name: [Yasharth](https://github.com/yasharth328)
+Place: Prayagraj, India
