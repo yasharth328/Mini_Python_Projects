@@ -6,3 +6,6 @@ Place: Nepal
 
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
+
+Name: [Nitika Gupta](https://github.com/NitikaGupta16)
+Place: Delhi, India 
