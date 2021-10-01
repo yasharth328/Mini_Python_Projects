@@ -1,3 +1,5 @@
 Name: [Adam Ross](https://github.com/R055A)
-
 Place: Christchurch, New Zealand
+
+Name: [Diwash Dahal](https://github.com/diwash007)
+Place: Nepal
