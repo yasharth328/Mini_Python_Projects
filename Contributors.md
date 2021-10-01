@@ -7,7 +7,6 @@ Place: Nepal
 Name: [Chiranjeev Vishnoi](https://github.com/Chiranjeev-droid)
 Place: Rajasthan, India
 
-
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
@@ -19,6 +18,9 @@ Place: Delhi, India
 
 Name: [Nitin Kumar](https://github.com/nitinkumar30)
 Place: Jamshedpur, India
+
+Name: [Yasharth](https://github.com/yasharth328)
+Place: Prayagraj, India
 
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
