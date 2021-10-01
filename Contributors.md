@@ -28,3 +28,6 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Lainika](https://github.com/Lainika)
+Place: Berlin, Germany
+About: Currently learning Python. I use Hacktoberfest as an opportunity to learn git as well.
