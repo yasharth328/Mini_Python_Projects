@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-
+Name : [Yasharth](https://github.com/yasharth328)
+Place : Prayagraj,India
+About :  Budding Data Scientist :)
 =======
 Name: [Adam Ross](https://github.com/R055A)
 Place: Christchurch, New Zealand
@@ -10,7 +12,4 @@ Place: Nepal
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
-Name : [Yasharth](https://github.com/yasharth328)
-Place : Prayagraj,India
-About :  Budding Data Scientist :)
 >>>>>>> upstream/main
