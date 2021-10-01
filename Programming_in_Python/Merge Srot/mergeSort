@@ -1,0 +1,79 @@
+# function for merge sort on array.
+from array import *
+from random import randint
+
+def display(arr,n):         # function to display the array
+    for i in range(0,n):
+        print(a[i], end =" ")
+ 
+def mergeSort(a, l,m,h):      #helper function for merge sort- will merge the array
+    n1=m-l+1                  #number of elements in first subarray
+    n2=h-m                    #number of element in second subarray
+       
+    #Create 2 temp array left, right with all element =0
+    L=[0]*(n1)
+    R=[0]*(n2)
+    
+    #left subarray
+    for i in range(0, n1):
+        L[i]=a[l+i]
+        
+    #right subarray    
+    for j  in range(0,n2):
+        R[j]=a[m+1+j]
+        
+    #initial indexes    
+    i=0
+    j=0
+    k=l
+    while(i<n1 and j<n2):
+        if (L[i]<=R[j]):
+            a[k]=L[i]
+            i+=1
+        else:
+            a[k]=R[j]
+            j+=1
+        k+=1
+        
+     #inserting the remaining elements to the array
+    while i<n1:
+          a[k]=L[i]
+          i+=1
+          k+=1
+
+    while j<n2:
+          a[k]=R[j]
+          j+=1
+          k+=1
+ 
+#Merge sort uses Divide and Conquer.this function is for dividing the array.
+def merge(a,low,high):
+    if (low<high):
+        mid=(low+(high-1))//2
+        merge(a, low, mid)
+        merge(a, mid+1, high)
+        mergeSort(a, low, mid, high)
+    return a     
+
+a=array("i",[])
+#insertinf 10 number randomly to the array
+i=0
+while(i<10):
+    a.insert(i,randint(0,100))
+    i+=1
+    
+print("Initial Array merge sort: ")
+display(a,10)
+
+print("\n Array after merge sort: ")
+display(merge(a,0,9),len(a))
+
+
+
+'''
+OUTPUT
+Initial Array merge sort: 
+90 82 23 51 28 45 15 8 25 63 
+Array after merge sort: 
+8 15 23 25 28 45 51 63 82 90 
+'''
