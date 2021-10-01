@@ -1,6 +1,3 @@
-Name: [Yasharth](https://github.com/yasharth_328)
-Place: Prayagraj, India
-
 Name: [Adam Ross](https://github.com/R055A)
 Place: Christchurch, New Zealand
 
