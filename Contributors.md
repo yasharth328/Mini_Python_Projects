@@ -28,5 +28,5 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
-Name: [Varun Sathish](Github Link)
+Name: [Varun Sathish](https://github.com/varun0308)
 Place: Banglore, India
