@@ -7,6 +7,9 @@ Place: Nepal
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
+Name:  [Sanskriti Jain](https://github.com/sans2001)
+Place: Delhi, India
+
 Name: [Prashant Singh](https://github.com/EitoZX/)
 Place: India.
 
@@ -36,4 +39,3 @@ Place: Berlin, Germany
 
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
-
