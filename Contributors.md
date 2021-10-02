@@ -31,6 +31,9 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Sarthak](https://github.com/kahtras665)
+Place: India
+
 Name: [Varun Sathish](https://github.com/varun0308)
 Place: Banglore, India
 
@@ -42,3 +45,4 @@ Place: Berlin, Germany
 
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
+
