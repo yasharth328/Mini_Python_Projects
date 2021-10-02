@@ -30,4 +30,6 @@ Place: Varanasi, India
 
 Name: [Lainika](https://github.com/Lainika)
 Place: Berlin, Germany
-About: Currently learning Python. I use Hacktoberfest as an opportunity to learn git as well.
+
+Name: [Somanyu Samal](https://github.com/Somanyu)
+Place: Bhubaneswar, India
