@@ -30,3 +30,10 @@ Place: Varanasi, India
 
 Name: [Adit Magotra](https://github.com/AlphaLaser)
 Place: Jammu (J&K), India
+
+Name: [Lainika](https://github.com/Lainika)
+Place: Berlin, Germany
+
+Name: [Somanyu Samal](https://github.com/Somanyu)
+Place: Bhubaneswar, India
+
