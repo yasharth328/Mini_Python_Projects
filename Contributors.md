@@ -28,3 +28,5 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Mohamed Ayaan](https://github.com/Mohamed-Ayaan358)
+Place: Bangalore, India
