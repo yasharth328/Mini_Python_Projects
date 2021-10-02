@@ -18,6 +18,7 @@ Repository Link: https://github.com/neha07kumari/Mini_Python_Projects
 
 ## Rules for Contributing to this Repository
 
+0. First and the most important rule do make an issue(regarding your contribution (no duplicates issues allowed)) and when assigned go for the PR.
 1. Make sure to go to the right folder .
 2. If you are adding a program in python ,then go to Programming_in_Python and follow the below steps:
 ```bash
@@ -185,3 +186,6 @@ Navigate to your forked repository, and press the “New pull request” button 
               
  ## HAPPY HACKING!😁😁
  ## HAPPY CODING!!👩‍💻👩‍💻
+
+
+<h3 align="center"> PLEASE NOTE: No changes to be done in README.md </h3>
