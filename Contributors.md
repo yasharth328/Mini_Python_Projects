@@ -28,3 +28,5 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Tharindu Ds](https://github.com/mr-desilva)
+Place: Colombo, Sri Lanka
