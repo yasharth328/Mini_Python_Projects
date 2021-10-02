@@ -28,5 +28,8 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Lainika](https://github.com/Lainika)
+Place: Berlin, Germany
+
 Name: [Somanyu Samal](https://github.com/Somanyu)
 Place: Bhubaneswar, India
