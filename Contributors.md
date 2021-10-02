@@ -7,6 +7,9 @@ Place: Nepal
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
+Name:  [Sanskriti Jain](https://github.com/sans2001)
+Place: Delhi, India
+
 Name: [Prashant Singh](https://github.com/EitoZX/)
 Place: India.
 
@@ -17,7 +20,7 @@ Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
 Name: [Uttara Bahad](https://github.com/uttarabahad)
-Place: Mumbai, India 
+Place: Mumbai, India
 
 Name: [Nikita Gupta](https://github.com/NikitaGupta16)
 Place: Delhi, India
@@ -28,5 +31,23 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+
 Name: [Shyam Sunder S](https://github.com/ShyamSunder149)
 Place: Trichy, India
+
+Name: [Sarthak](https://github.com/kahtras665)
+Place: India
+
+Name: [Varun Sathish](https://github.com/varun0308)
+Place: Banglore, India
+
+Name: [Adit Magotra](https://github.com/AlphaLaser)
+Place: Jammu (J&K), India
+
+Name: [Lainika](https://github.com/Lainika)
+Place: Berlin, Germany
+
+Name: [Somanyu Samal](https://github.com/Somanyu)
+Place: Bhubaneswar, India
+
+
