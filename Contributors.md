@@ -30,3 +30,10 @@ Place: Varanasi, India
 
 Name: [Mohamed Ayaan](https://github.com/Mohamed-Ayaan358)
 Place: Bangalore, India
+
+Name: [Lainika](https://github.com/Lainika)
+Place: Berlin, Germany
+
+Name: [Somanyu Samal](https://github.com/Somanyu)
+Place: Bhubaneswar, India
+
