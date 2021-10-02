@@ -31,6 +31,9 @@ Place: Jamshedpur, India
 Name: [Prajjwal Pathak](https://github.com/pyguru123)
 Place: Varanasi, India
 
+Name: [Varun Sathish](https://github.com/varun0308)
+Place: Banglore, India
+
 Name: [Adit Magotra](https://github.com/AlphaLaser)
 Place: Jammu (J&K), India
 
